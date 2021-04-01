@@ -29330,6 +29330,17 @@ note = space;
 unicode = 0020;
 },
 {
+glyphname = uni00A0;
+lastChange = "2021-04-01 12:37:41 +0000";
+layers = (
+{
+layerId = "27714DAC-5FBA-4222-9599-87EDA629626A";
+width = 532;
+}
+);
+unicode = 00A0;
+},
+{
 glyphname = dollar;
 lastChange = "2021-04-01 12:34:43 +0000";
 layers = (
