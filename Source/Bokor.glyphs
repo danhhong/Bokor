@@ -1,6 +1,6 @@
 {
 .appVersion = "1352";
-copyright = "Copyright 2019 The Bokor Project Authors (https://github.com/danhhong/Bokor)";
+copyright = "Copyright 2020 The Bokor Project Authors (https://github.com/danhhong/Bokor)";
 customParameters = (
 {
 name = "Use Typo Metrics";
